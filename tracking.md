@@ -1,5 +1,8 @@
 Portfolio Tracker
 
+01/27/2023:
+- Start design sketch in figma - design login page in figma
+
 01/26/2023
 - Created repo
 
