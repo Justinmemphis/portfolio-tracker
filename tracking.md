@@ -1,5 +1,16 @@
 Portfolio Tracker
 
+01/28/2023:
+- Organize pages for app
+- Design sign up page
+- Design header at top of remaining pages
+
+Additional thoughts on security:
+- Have positions grouped - but have groups with alphabetical input only - so no account numbers possible
+- Have totals of groups show on page but not be stored in database
+- database just has individual positions, not total
+- disclaimer on front about positions not stored securely - not private, etc.
+
 01/27/2023:
 - Start design sketch in figma - design login page in figma
 
