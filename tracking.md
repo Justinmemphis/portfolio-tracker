@@ -1,5 +1,9 @@
 Portfolio Tracker
 
+01/29/23:
+- Design welcome page
+- Design summary page
+
 01/28/2023:
 - Organize pages for app
 - Design sign up page
